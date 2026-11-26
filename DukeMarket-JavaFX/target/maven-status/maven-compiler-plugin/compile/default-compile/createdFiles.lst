@@ -1,0 +1,8 @@
+br\dev\arthur\dukemarket\javafx\PrimaryController.class
+br\dev\arthur\dukemarket\javafx\SecondaryController.class
+module-info.class
+br\dev\arthur\dukemarket\javafx\DAO\ProdutoDAO.class
+br\dev\arthur\dukemarket\javafx\model\Produto.class
+br\dev\arthur\dukemarket\javafx\App.class
+connection\MySQLConnection.class
+br\dev\arthur\dukemarket\javafx\controller\MenuPrincipalController.class
